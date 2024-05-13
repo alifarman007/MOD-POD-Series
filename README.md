@@ -7,7 +7,7 @@
 
 <h2>Description</h2>
  <p align="center">
-<img src="https://i.imgur.com/cDlx4aZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4NBpNFK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
