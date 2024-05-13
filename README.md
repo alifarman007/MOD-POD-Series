@@ -1,4 +1,4 @@
-<h1>MOD POD Series</h1>
+<h1>MOD POD - Smart Modular Space Solution</h1>
 
  <p align="center">
 <img src="https://i.imgur.com/MuG7vmA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
