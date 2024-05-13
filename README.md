@@ -25,6 +25,30 @@
 <br />
 <br />
 
+ <p align="center">
+<img src="https://i.imgur.com/sLdsW0Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+ <p align="center">
+<img src="https://i.imgur.com/Rb3pFxb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+ <p align="center">
+<img src="https://i.imgur.com/o6LC9qt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+ <p align="center">
+<img src="https://i.imgur.com/1ID0La8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
 <h2>Purchase Link</h2>
 <b>https://www.isho.com/innovation/the-mod-pod-series</b>
 
