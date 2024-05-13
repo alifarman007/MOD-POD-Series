@@ -6,11 +6,8 @@
 <br />
 
 <h2>Description</h2>
- <p align="center">
-<img src="https://i.imgur.com/4NBpNFK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<br />
+<b>Introducing the Mod Pod Series, a range of modular office pods that are designed to take office productivity and space utilization to the next level. These pods boast of an array of smart features like sound proofing, LED lighting, temperature and carbon dioxide sensors, and charging stations among others and come in three different sizes – 1 seater, 2 seater and 4 seater. Unique and revolutionary in their approach, these pods will provide the perfectly adaptable solution to offices that don’t have meeting rooms or quiet areas.</b>
+
 
 <h2>360 View</h2>
  <p align="center">
